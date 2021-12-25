@@ -1,5 +1,6 @@
 # azeroth-workplace-gender-inequality
-Dataset of the upcoming research publication: Azeroth Has a Workplace Gender Inequality Problem: Gendered Professions Bias in Virtual Worlds
+Dataset from the publication: 
+Sercan Şengün, Jennifer Price, Lyndsie Schlink, Kristin Walker (2022), Azeroth Has a Workplace Gender Inequality Problem: Gendered Professions Bias in Virtual Worlds, In: Barbaros Bostan (eds.) Games and Narrative: Theory and Practice, International Series on Computer Entertainment and Media Technology, Cham: Springer. doi: 10.1007/978-3-030-81538-7_7
 
 Authors:
 
